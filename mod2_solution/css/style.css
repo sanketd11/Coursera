@@ -40,9 +40,6 @@
 	font-size: 1.25em;
 }
 
-
-
-
 #Chicken {
 	background-color: #ffc3a0;
 }
@@ -63,7 +60,7 @@ h1 {
 
 }
 
-@media (min-width: 768px ) and (max-width: 992px){
+@media (min-width: 768px ) and (max-width: 991px){
 	
 	.grid-sm-6 {
 		float: left;
@@ -78,7 +75,7 @@ h1 {
 	.stack {
 		float: left;
 		width:100%;
-		
+
 	}
 
 }
